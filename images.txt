@@ -10,3 +10,5 @@ postgres:13.16-bullseye
 postgres:14.13-bullseye
 postgres:16.4-bullseye
 postgres:15.8-bullseye
+mysql:8.4.2
+mysql:5.7.27
